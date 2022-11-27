@@ -1,0 +1,33 @@
+#!/bin/sh
+unset SHELL
+unset COLORTERM
+unset TERM_PROGRAM_VERSION
+unset WSL_DISTRO_NAME
+unset NAME
+unset PWD
+unset LOGNAME
+unset VSCODE_GIT_ASKPASS_NODE
+unset MOTD_SHOWN
+unset HOME
+unset LANG
+unset WSL_INTEROP
+unset LS_COLORS
+unset GIT_ASKPASS
+unset VSCODE_GIT_ASKPASS_EXTRA_ARGS
+unset LESSCLOSE
+unset TERM
+unset LESSOPEN
+unset USER
+unset VSCODE_GIT_IPC_HANDLE
+unset SHLVL
+unset WSLENV
+unset VSCODE_GIT_ASKPASS_MAIN
+unset XDG_DATA_DIRS
+unset PATH
+unset HOSTTYPE
+unset OLDPWD
+unset TERM_PROGRAM
+unset fasfdasdf
+unset VSCODE_IPC_HOOK_CLI
+unset _
+export 
